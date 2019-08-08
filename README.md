@@ -1,2 +1,2 @@
 # Homework-4
-The purpose of this project was to use the Pandas library to analyze district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance.
+The purpose of this project was to utilize the Pandas library to analyze district-wide standardized test results. The dataset being used gave access to student's math and reading scores, as well as various information on the schools that these students attended. The goal was to aggregate this data and display obvious trends (top/bottom performing schools, math and reading scores by grade, school spending and size).
